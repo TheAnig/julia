@@ -2,7 +2,7 @@
 layout: post
 title: Sample Post
 description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-author: kuoa
+author: TheAnig
 category: misc
 tags: book live life
 finished: true
@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nulla
 
 This is a image.
 
-![panda]({{ site.url }}/assets/logo.png)
+![gato]({{ site.url }}/assets/logo.png)
 
 
 *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
@@ -86,4 +86,8 @@ Non Rouge code example
         <p>This is great isn't it?</p>
     </div>
 
+### Sample MathJax equation
 
+Latex math formula rendered using MathJax, enclose the formula between a pair of ``$$`` to be treated as a formula.
+
+$$ f(x) = x^2 + 2*x + 4 $$

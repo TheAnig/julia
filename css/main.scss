@@ -1,11 +1,11 @@
 ---
 ---
 @charset "utf-8";
-
+@import url('https://fonts.googleapis.com/css?family=Spectral|Quicksand');
 // Our variables
-$base-font-family: 'Lato', Helvetica, Arial, sans-serif;
+$base-font-family: 'Spectral', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
-$post-font-family: 'Quicksand', Heltvetica, sans-serif;
+$post-font-family: 'Quicksand', Helvetica, sans-serif;
 $small-font-size:  $base-font-size * 0.895;
 $large-font-size:  $base-font-size * 1.40;
 
@@ -15,7 +15,7 @@ $spacing-unit:     30px;
 
 $text-color:       #454545;
 $background-color: #fff;
-$brand-color:      #5aa3d1; //#eb5a5b;
+$brand-color:      #1bde7c; //#5aa3d1; //#eb5a5b;
 $brand-color-light:lighten($brand-color, 20%);
 
 $grey-color:       #828282;
@@ -26,8 +26,6 @@ $grey-color-dark:  darken($grey-color, 15%);
 $content-width:    800px;
 $on-palm:          800px;
 $on-laptop:        800px;
-
-
 
 // Using media queries with like this:
 // @include media-query($on-palm) {

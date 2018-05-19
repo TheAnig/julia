@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-**Hi i'm kuoa!** and here is the place where i document and share my projects.
+**Hi I'm TheAnig!** I like cats, programming and video games. This website is my personal blog space where I document and share my projects.
 
-* [Github](http://github.com/kuoa)
-* Mail: kuoacat[at]gmail[dot]com
+* [Github](http://github.com/TheAnig)
+* Mail: theanig[at]protonmail[dot]com
