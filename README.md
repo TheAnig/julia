@@ -12,6 +12,27 @@ These are the changes/updates made to the theme from the source, to better suit 
 
 ---------------------------
 
+# Usage
+
+## Install from github
+
+1. [Fork the repository](https://github.com/theanig/julia/fork)
+
+2. Clone the repository on your computer and use it
+
+```sh
+
+$ git clone https://github.com/theanig/julia.git
+
+$ bundler install
+
+$ jekyll serve
+
+```
+
+
+---------------------------
+
 ### Author [![Twitter](https://img.shields.io/badge/author-TheAnig-brightgreen.svg)](https://github.com/TheAnig)
 
 ---------------------------
